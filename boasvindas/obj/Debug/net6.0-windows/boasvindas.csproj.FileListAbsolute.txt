@@ -1,0 +1,17 @@
+C:\AulaFiap\boasvindas\boasvindas\bin\Debug\net6.0-windows\boasvindas.exe
+C:\AulaFiap\boasvindas\boasvindas\bin\Debug\net6.0-windows\boasvindas.deps.json
+C:\AulaFiap\boasvindas\boasvindas\bin\Debug\net6.0-windows\boasvindas.runtimeconfig.json
+C:\AulaFiap\boasvindas\boasvindas\bin\Debug\net6.0-windows\boasvindas.dll
+C:\AulaFiap\boasvindas\boasvindas\bin\Debug\net6.0-windows\ref\boasvindas.dll
+C:\AulaFiap\boasvindas\boasvindas\bin\Debug\net6.0-windows\boasvindas.pdb
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.csproj.AssemblyReference.cache
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.Form1.resources
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.csproj.GenerateResource.cache
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.AssemblyInfoInputs.cache
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.AssemblyInfo.cs
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.csproj.CoreCompileInputs.cache
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.dll
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\ref\boasvindas.dll
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.pdb
+C:\AulaFiap\boasvindas\boasvindas\obj\Debug\net6.0-windows\boasvindas.genruntimeconfig.cache
